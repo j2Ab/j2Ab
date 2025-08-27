@@ -1,31 +1,25 @@
-#                                                       Hi, I'm Jawad Ahmad
+### Hi there 👋, jawad Ahmad
+#### Software Engineer (javaScript)
+![Software Engineer (javaScript)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-###                                            Software Engineer (JavaScript Ecosystem)
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-I enjoy building scalable apps, solving problems, and constantly exploring new technologies.  
-Currently diving deeper into **GraphQL** and sharpening my problem-solving skills on **LeetCode**.
-
----
-
-## 🚀 What I'm Up To
-
-- 📚 Learning **GraphQL**
-- 🧩 Practicing algorithms & data structures on [LeetCode](https://leetcode.com/u/j2ab/)
-- 🔬 Exploring **React Fiber, Suspense, and Server Components**
-- ☁️ Getting hands-on with **Kubernetes, AWS, and scalable backend architectures**
+- 🔭 I’m currently working on GraphQL 
+- 🌱 I’m currently learning Backend with javascirpt 
+- 👯 I’m looking to collaborate on projects 
+- 🤔 I’m looking for help with jobs market 
+- 💬 Ask me about react / TypeScrit 
+- 📫 How to reach me: jawadahmatt@gmail.com 
+- ⚡ Fun fact: Its now or never 
 
 
-## 📊 GitHub Stats
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jawad Ahmad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/jawad_ahmad_0aa48bb281c2e)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jawad-ahmad-8a665a222//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100036418400445)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jawadahmad903//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/31294369)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Even-Map4110/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/payoneer.svg' alt='payoneer' height='40'>](98102048)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j2Ab&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j2Ab&layout=compact&theme=radical)
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad Ahmad)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 Connect With Me
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawad Ahmad&show_icons=true)  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jawad-ahmad-8a665a222/)
-- 🐦 [Twitter](#)
-- 🌐 [Portfolio/Website](https://jawadahmad.org)
+![GitHub metrics](https://metrics.lecoq.io/Jawad Ahmad)  
 
-
-⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_
