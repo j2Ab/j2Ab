@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/talhabalaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jawadahmad" height="30" width="40" /></a>
-<a href="https://twitter.com/talha_balaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talha_balaj" height="30" width="40" /></a>
+<a href="https://dev.to/jawad_ahmad_0aa48bb281c2e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jawadahmad" height="30" width="40" /></a>
+<a href="https://twitter.com/jawadahmads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jawadahmad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/31294369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31294369" height="30" width="40" /></a>
 <a href="https://hashnode.com/@jawadahmads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jawadahmads" height="30" width="40" /></a>
 </p>
